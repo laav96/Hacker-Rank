@@ -4,7 +4,7 @@
 
 -- Direct Link: https://www.hackerrank.com/challenges/weather-observation-station-5/problem
 -- Difficulty: Easy
--- Max Score: 10
+-- Max Score: 30
 -- DBMS: mySQL
 
 -- ========================
